@@ -1,0 +1,6 @@
+c:\users\swinal\source\repos\CricketGameTwoPlayers\CricketGameTwoPlayers\bin\Debug\CricketGameTwoPlayers.dll
+c:\users\swinal\source\repos\CricketGameTwoPlayers\CricketGameTwoPlayers\bin\Debug\CricketGameTwoPlayers.pdb
+c:\users\swinal\source\repos\CricketGameTwoPlayers\CricketGameTwoPlayers\obj\Debug\CricketGameTwoPlayers.csproj.CoreCompileInputs.cache
+c:\users\swinal\source\repos\CricketGameTwoPlayers\CricketGameTwoPlayers\obj\Debug\CricketGameTwoPlayers.dll
+c:\users\swinal\source\repos\CricketGameTwoPlayers\CricketGameTwoPlayers\obj\Debug\CricketGameTwoPlayers.pdb
+c:\users\swinal\source\repos\CricketGameTwoPlayers\CricketGameTwoPlayers\obj\Debug\CricketGameTwoPlayers.csprojAssemblyReference.cache
